@@ -7,7 +7,7 @@
 	display:flex;
 	justify-content:space-around;
 }
-.image-container,img{
+#image-container,img{
 	width:450px;
 	height:300px;
 	object-fit: cover;
